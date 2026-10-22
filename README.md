@@ -26,5 +26,5 @@ Soy una persona apasionada por la tecnología y el desarrollo. Me gusta aprender
 - GitHub, GitHub Desktop, Visual Studio Code, Postman
 
 ## 📞 Contacto
-- [Tu correo electrónico](mailto:ucan.jhordin@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jhordin-alexander-ucan-can-084587290/)
+- [ucan.jhordin@gmail.com](mailto:ucan.jhordin@gmail.com)
+- [https://www.linkedin.com/in/jhordin-alexander-ucan-can-084587290/](https://www.linkedin.com/in/jhordin-alexander-ucan-can-084587290/)
